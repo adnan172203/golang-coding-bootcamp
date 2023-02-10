@@ -10,3 +10,8 @@ import "fmt"
 func main(){
 
 }
+
+
+
+
+// package main is the entry point for the whole golang application. the compiler starts reading code from the main package
